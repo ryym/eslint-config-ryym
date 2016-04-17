@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-ryym",
+  "version": "1.0.0",
+  "description": "ESLint shareable config used by @ryym",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "ryym",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryym/eslint-config-ryym"
+  },
+  "license": "MIT"
+}
