@@ -92,7 +92,7 @@ module.exports = {
       "beforeLineComment": true
     }],
     "max-depth": [2, 4],
-    "max-len": [2, 80, 4],
+    "max-len": [2, 95, 4],
     "max-nested-callbacks": [2, 4],
     "max-params": [2, 5],
     "max-statements": [1, 20],
