@@ -105,7 +105,7 @@ module.exports = {
     "object-curly-spacing": [2, "always"],
     "one-var-declaration-per-line": 2,
     "operator-linebreak": [2, "before"],
-    "quotes": [2, "single"],
+    "quotes": [2, "single", { "avoidEscape": true }],
     "semi": 2,
     "space-before-blocks": [2, "always"],
     "spaced-comment": [2, "always"],
