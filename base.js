@@ -69,6 +69,7 @@ module.exports = {
     "block-spacing": 2,
     "brace-style": [2, "stroustrup"],
     "camelcase": 2,
+    "comma-dangle": [2, "always-multiline"]
     "comma-spacing": [2, {
       "before": false,
       "after": true
