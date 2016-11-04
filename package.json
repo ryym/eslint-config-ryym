@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ryym",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "ESLint shareable config used by @ryym",
   "keywords": [
     "eslint",
