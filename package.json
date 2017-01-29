@@ -11,5 +11,8 @@
     "type": "git",
     "url": "https://github.com/ryym/eslint-config-ryym"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3.14.0"
+  }
 }
