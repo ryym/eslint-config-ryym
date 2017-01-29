@@ -90,7 +90,8 @@ module.exports = {
     "linebreak-style": [2, "unix"],
     "lines-around-comment": [2, {
       "beforeBlockComment": true,
-      "beforeLineComment": true
+      "beforeLineComment": true,
+      "allowBlockStart": true,
     }],
     "max-depth": [2, 4],
     "max-len": [2, 95, 4],
