@@ -25,6 +25,6 @@ module.exports = {
     "react/no-deprecated": 2,
     "react/no-direct-mutation-state": 2,
     "react/self-closing-comp": 1,
-    "react/wrap-multilines": 2
+    "react/jsx-wrap-multilines": 2
   }
 }
